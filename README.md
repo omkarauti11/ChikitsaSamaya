@@ -1,4 +1,4 @@
-## ChikitsaSamaya
+# ChikitsaSamaya
 
 # Hospital Appointment System
 
